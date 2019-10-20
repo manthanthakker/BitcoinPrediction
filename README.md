@@ -1,7 +1,6 @@
 # BitcoinPrediction
-## CryptoCurrency prediction using Deep Recurrent Neural Networks
 
-# Model Evaluation and Validation
+### CryptoCurrency prediction using Deep Recurrent Neural Networks
 This repository contains various Machine learning models used in industry to predict stock prices and cryptocurrency in finance industry. 
 
   - Fundamental analysis of the stock price using Yahoo Finance
