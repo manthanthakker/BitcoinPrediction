@@ -44,6 +44,18 @@ or
 jupyter notebook BitcoinPredictionRNN.ipynb
 ```
 
+You can also run the entire training and evaluation pipeline from the command
+line:
+
+```bash
+python bitcoin_prediction_pipeline.py
+```
+
+The script downloads the latest Bitcoin price data and trains Random Forest,
+LSTM and ARIMA models. At the end it prints a comparison table of predictions
+and a summary of RMSE values.
+
+
 This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
